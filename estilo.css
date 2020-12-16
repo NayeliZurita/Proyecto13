@@ -1,0 +1,63 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	width: 85%;
+	margin: 20px auto;
+	background: #A8CB84;
+	font-family:"Courier New", Courier, monospace;
+}
+.titu{
+	text-align: center;
+	font-size: 33px;
+	color: white;
+}
+.contenido{
+	margin: 8px auto;
+}
+.superior{
+	overflow: hidden;
+}
+.logo{
+	font-size: 22px;
+	float: left;
+	color: white;
+	width: 6%;
+	padding: 4%;
+}
+.lista{
+	float: left;
+	padding: 5%;
+}
+.opciones li{
+	float: left;
+	list-style: none;
+}
+.opciones li a{
+	margin: 25px auto;
+	padding: 20px;
+	text-decoration: none;
+	color: white;
+	border:1px solid white;
+}
+.opciones li a:hover{
+	background: #76e399;
+}
+h3{
+	text-align: center;
+	font-size: 33px;
+}
+#te{
+	width: 100%;
+	border:4px inset #69ff66;
+}
+#tj{
+	width: 50%;
+	text-align: center;
+	border: 4px inset #69ff66;
+}
+.primero{
+	text-align: center;
+	font-size: 25px;
+}
